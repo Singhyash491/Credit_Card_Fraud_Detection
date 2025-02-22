@@ -45,8 +45,10 @@ Credit card fraud is a major concern for financial institutions. The goal of thi
 ---
 
 ## ⚙️ Output
-- The trained **Logistic Regression** model predicts fraudulent transactions.
-- Accuracy and other metrics are computed for evaluation.
+- The trained **Logistic Regression model** predicts fraudulent transactions.  
+- Accuracy and other evaluation metrics are computed:  
+  - **Training Accuracy:** 91.99%  
+  - **Test Accuracy:** 95.94%  
 
 ---
 
